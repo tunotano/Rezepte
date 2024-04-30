@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#aufstrich"
-  - "#petersilie"
   - linsen
+  - aufstrich
+  - petersilie
 source: https://byanjushka.com/vegane-brotaufstriche-selber-machen-7811/
 ---
 ## Zutaten

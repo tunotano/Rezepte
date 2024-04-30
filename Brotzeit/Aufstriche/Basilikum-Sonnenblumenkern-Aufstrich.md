@@ -15,8 +15,8 @@ source: https://www.zuckerjagdwurst.com/de/rezepte/vegane-aufstriche-aus-sonnenb
 | 3 EL Pflanzenöl (geschmacksneutral) | -                       |
 | 2 EL Agavendicksaft                 | 2-3 EL Dattelsirup      |
 | 2 EL frischer Zitronensaft          | 2 EL Apfelessig         |
-| Salz                                | -                       |
-| Pfeffer                             | -                       |
+| Salz und Pfeffer                    | -                       |
+
 ### Zusätzlich: 
 
 - 2 EL Tahini
@@ -26,4 +26,4 @@ source: https://www.zuckerjagdwurst.com/de/rezepte/vegane-aufstriche-aus-sonnenb
 
 1. Sonnenblumenkerne in einer Pfanne ohne Öl rösten. Die Sonnenblumenkerne in ein Gefäß mit 25 ml Wasser + 25 ml Öl geben.
     
-2. Nun je nach Sorte die restlichen Zutaten vorbereiten, hinzugeben, gut pürieren und abschmecken.
+2. Die Basilikumblätter waschen, trocken schütteln, abzupfen und mit den restlichen Zutaten  zu den Sonnenblumenkernen hinzugeben, gut pürieren und abschmecken.
